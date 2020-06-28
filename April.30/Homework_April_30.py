@@ -5,7 +5,6 @@ Favorite_Classes = ["Chemistry", "Physics C", "Computer Science"]
 His_Age = 18
 Family_Size = 4
 Romatic_Relationships = 0
-
 print("His name is " + Name + " ,and his favorite color is " + Favorite_Color
 + " ,and his favorite classes are " + Favorite_Classes[0] + " ,and " + Favorite_Classes[1] + " ,and " + Favorite_Classes[2])
 print("His age is " + str(His_Age) + " and he has " + str(Family_Size) + " mouths in his family, but he has " + str(Romatic_Relationships) + " relationships.")
